@@ -1,10 +1,18 @@
 {
     "variants": {
         "casing=plain": { "model": "modularmachinery:blockcasing_plain" },
+        "casing=plain_tier_2" : { "model": "modularmachinery:blockcasing_plain" },
+        "casing=plain_tier_3" : { "model": "modularmachinery:blockcasing_plain" },
+        "casing=plain_tier_4" : { "model": "modularmachinery:blockcasing_plain" },
+        "casing=plain_tier_5" : { "model": "modularmachinery:blockcasing_plain" },
         "casing=vent": { "model": "modularmachinery:blockcasing_vent" },
         "casing=firebox": { "model": "modularmachinery:blockcasing_firebox" },
         "casing=gearbox": { "model": "modularmachinery:blockcasing_gearbox" },
         "casing=reinforced": { "model": "modularmachinery:blockcasing_reinforced" },
+        "casing=reinforced_tier_2": { "model": "modularmachinery:blockcasing_reinforced" },
+        "casing=reinforced_tier_3": { "model": "modularmachinery:blockcasing_reinforced" },
+        "casing=reinforced_tier_4": { "model": "modularmachinery:blockcasing_reinforced" },
+        "casing=reinforced_tier_5": { "model": "modularmachinery:blockcasing_reinforced" },
         "casing=circuitry": { "model": "modularmachinery:blockcasing_circuitry" }
     }
 }

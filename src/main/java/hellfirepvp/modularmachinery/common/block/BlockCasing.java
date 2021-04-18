@@ -110,10 +110,18 @@ public class BlockCasing extends BlockMachineComponent implements BlockCustomNam
     public static enum CasingType implements IStringSerializable {
 
         PLAIN,
+        PLAIN_TIER_2,
+        PLAIN_TIER_3,
+        PLAIN_TIER_4,
+        PLAIN_TIER_5,
         VENT,
         FIREBOX,
         GEARBOX,
         REINFORCED,
+        REINFORCED_TIER_2,
+        REINFORCED_TIER_3,
+        REINFORCED_TIER_4,
+        REINFORCED_TIER_5,
         CIRCUITRY;
 
         @Override
